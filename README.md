@@ -7,3 +7,5 @@ Files:
 - plotlilacs.py does the general and specific plotting (this last one requiring user inputs)
 - pre_process_csv.py does what the name says, the output is the file we want to use in the alternative_extraction method.
 - keyw.py goes further on the data analysis of communication and health theses.
+
+More info on: https://www.datascienceportfol.io/emilianobalaguer/projects/4
